@@ -1,4 +1,21 @@
 
+<p align="center">
+  <img src="Header.png" alt="Forza Horizon 2 Licence Plate Mod" width="100%">
+</p>
+
+<p align="center">
+  <b>Custom Licence Plates for Forza Horizon 2 on PC</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Philipp55112/fh2-licence-plate/releases">
+    <img src="https://img.shields.io/badge/Download-v1.0.0-ff4b9b" alt="Download">
+  </a>
+  <img src="https://img.shields.io/badge/Game-Forza_Horizon_2-lightgrey" alt="Game">
+  <img src="https://img.shields.io/badge/Platform-PC-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
+</p>
+
 # 🚘 Licence Plate Mod for Forza Horizon 2
 
 Bring custom licence plates, realistic plate lighting and interactive customization to **Forza Horizon 2**!
