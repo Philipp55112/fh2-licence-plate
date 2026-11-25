@@ -1,0 +1,7052 @@
+{
+ "ACU_IntegraR_01": [],
+ "ACU_RSXTypeS_02": [],
+ "ALF_33Stradale_68": [
+  {
+   "c": [
+    0,
+    0.082,
+    0.016
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@trunk"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "r": 0.04,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "nogrow": true,
+   "note": "v134 Phil: Glas am Chrom-Gehaeuse (zur Platte zeigende Haelfte) statt flacher Scheibe"
+  }
+ ],
+ "ALF_4C_14": [
+  {
+   "c": [
+    -0.115,
+    0.0922,
+    0.0169
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "pick v82 Decke"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "pick": {
+    "box": [
+     -0.1525,
+     -0.0775,
+     0.519,
+     0.535,
+     -1.8625,
+     -1.8318
+    ],
+    "mat": "carPaint",
+    "file": "bumperR_a",
+    "dir": [
+     0,
+     1,
+     0
+    ],
+    "cos": 0.5,
+    "push": [
+     0,
+     -0.0008,
+     0
+    ]
+   },
+   "nohull": true
+  },
+  {
+   "c": [
+    0.115,
+    0.0922,
+    0.0169
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "pick v82 Decke"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "pick": {
+    "box": [
+     0.0775,
+     0.1525,
+     0.519,
+     0.535,
+     -1.8625,
+     -1.8318
+    ],
+    "mat": "carPaint",
+    "file": "bumperR_a",
+    "dir": [
+     0,
+     1,
+     0
+    ],
+    "cos": 0.5,
+    "push": [
+     0,
+     -0.0008,
+     0
+    ]
+   },
+   "nohull": true
+  }
+ ],
+ "ALF_8C_08": [
+  {
+   "c": [
+    -0.0999,
+    0.0762,
+    0.0245
+   ],
+   "ext": [
+    0.102,
+    0.007,
+    0.041
+   ],
+   "n": 10,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0999,
+    0.0762,
+    0.0245
+   ],
+   "ext": [
+    0.102,
+    0.007,
+    0.041
+   ],
+   "n": 10,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "ALF_Giulietta_11": [],
+ "ALF_Spider_86": [],
+ "AMC_JavelinAMX_71": [
+  {
+   "c": [
+    -0.04,
+    0.0861,
+    0.046
+   ],
+   "ext": [
+    0.026,
+    0.009,
+    0.028
+   ],
+   "n": 64,
+   "m": [
+    "gls_clear",
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AMC_Rebel_70": [],
+ "ARI_Atom_13": [],
+ "ARM_GurkhaFF_14": [],
+ "AST_DB5Vantage_64": [
+  {
+   "c": [
+    -0.088,
+    0.086,
+    0.0135
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!carpaint@trunk_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "nohull": true,
+   "comp": true,
+   "half": true
+  },
+  {
+   "c": [
+    0.088,
+    0.086,
+    0.0135
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!carpaint@trunk_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "nohull": true,
+   "comp": true,
+   "half": true
+  }
+ ],
+ "AST_DBSTF_08": [],
+ "AST_One77_10": [],
+ "AST_V12Vantages_14": [],
+ "AST_V12Zagato_12": [],
+ "AST_Vanquish_13": [
+  {
+   "c": [
+    -0.1397,
+    0.0794,
+    0.0168
+   ],
+   "ext": [
+    0.055,
+    0.006,
+    0.02
+   ],
+   "n": 66,
+   "m": [
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1397,
+    0.0794,
+    0.0168
+   ],
+   "ext": [
+    0.055,
+    0.006,
+    0.02
+   ],
+   "n": 66,
+   "m": [
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_R8PlusTF_13": [
+  {
+   "c": [
+    -0.1303,
+    0.0873,
+    0.0268
+   ],
+   "ext": [
+    0.055,
+    0.009,
+    0.025
+   ],
+   "n": 16,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1303,
+    0.0873,
+    0.0268
+   ],
+   "ext": [
+    0.055,
+    0.009,
+    0.025
+   ],
+   "n": 16,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_R8Plus_13": [
+  {
+   "c": [
+    -0.1303,
+    0.0874,
+    0.0277
+   ],
+   "ext": [
+    0.055,
+    0.009,
+    0.025
+   ],
+   "n": 16,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1303,
+    0.0874,
+    0.0277
+   ],
+   "ext": [
+    0.055,
+    0.009,
+    0.025
+   ],
+   "n": 16,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_RS2_95": [],
+ "AUD_RS3_11": [],
+ "AUD_RS4Avant_13": [
+  {
+   "c": [
+    -0.143,
+    0.0903,
+    0.0345
+   ],
+   "ext": [
+    0.046,
+    0.006,
+    0.018
+   ],
+   "n": 12,
+   "m": [
+    "gls_edge",
+    "lbk_standardch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.143,
+    0.0903,
+    0.0345
+   ],
+   "ext": [
+    0.046,
+    0.006,
+    0.018
+   ],
+   "n": 12,
+   "m": [
+    "gls_edge",
+    "lbk_standardch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_RS4_01": [
+  {
+   "c": [
+    -0.1577,
+    0.0665,
+    0.0181
+   ],
+   "ext": [
+    0.038,
+    0.004,
+    0.014
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternCH1_035"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1577,
+    0.0665,
+    0.0181
+   ],
+   "ext": [
+    0.038,
+    0.004,
+    0.014
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternCH1_035"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_RS5_11": [],
+ "AUD_RS6_15": [
+  {
+   "c": [
+    -0.0981,
+    0.102,
+    0.0291
+   ],
+   "ext": [
+    0.03,
+    0.005,
+    0.015
+   ],
+   "n": 70,
+   "m": [
+    "gls_bump_colored",
+    "gls_bump_colored_nor",
+    "lbk_ch1_reflectMap_006"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0981,
+    0.102,
+    0.0291
+   ],
+   "ext": [
+    0.03,
+    0.005,
+    0.015
+   ],
+   "n": 70,
+   "m": [
+    "gls_bump_colored",
+    "gls_bump_colored_nor",
+    "lbk_ch1_reflectMap_006"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "AUD_RS7TF_13": [
+  {
+   "c": [
+    -0.127,
+    0.0936,
+    0.0173
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_rgh_mgl@trunk_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.127,
+    0.0936,
+    0.0173
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_rgh_mgl@trunk_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "AUD_S1_15": [],
+ "AUD_S4_13": [],
+ "AUD_SportQuattro_83": [
+  {
+   "c": [
+    -0.1117,
+    -0.0789,
+    0.0248
+   ],
+   "ext": [
+    0.064,
+    0.001,
+    0.018
+   ],
+   "n": 16,
+   "m": [
+    "gls_ridges"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1117,
+    -0.0789,
+    0.0248
+   ],
+   "ext": [
+    0.064,
+    0.001,
+    0.018
+   ],
+   "n": 16,
+   "m": [
+    "gls_ridges"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "AUD_TTRS_10": [],
+ "AUD_TTS_15": [
+  {
+   "c": [
+    -0.107,
+    0.094,
+    0.051
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_opaque+LBK_smoothChrome@trunkLiner"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.107,
+    0.094,
+    0.051
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_opaque+LBK_smoothChrome@trunkLiner"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BEN_ContinentalGTS_13": [],
+ "BMW_1M_11": [
+  {
+   "c": [
+    -0.1344,
+    0.0696,
+    0.0242
+   ],
+   "ext": [
+    0.049,
+    0.004,
+    0.029
+   ],
+   "n": 52,
+   "m": [
+    "gls_bump"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1344,
+    0.0696,
+    0.0242
+   ],
+   "ext": [
+    0.049,
+    0.004,
+    0.029
+   ],
+   "n": 52,
+   "m": [
+    "gls_bump"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_2002Turbo_73": [
+  {
+   "c": [
+    -0.133,
+    -0.165,
+    0.024
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "incandescent_1@bumperRLightbulb"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "native": 32
+  },
+  {
+   "c": [
+    0.133,
+    -0.165,
+    0.024
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "incandescent_1@bumperRLightbulb"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "native": 32
+  }
+ ],
+ "BMW_850CSi_96": [
+  {
+   "c": [
+    -0.1294,
+    0.0647,
+    0.0213
+   ],
+   "ext": [
+    0.073,
+    0.004,
+    0.027
+   ],
+   "n": 78,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1294,
+    0.0647,
+    0.0213
+   ],
+   "ext": [
+    0.073,
+    0.004,
+    0.027
+   ],
+   "n": 78,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_E36M3_97": [],
+ "BMW_M1_81": [],
+ "BMW_M2_15": [],
+ "BMW_M3E30_91": [
+  {
+   "c": [
+    -0.132,
+    0.1001,
+    0.0366
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_hgl@body_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true
+  },
+  {
+   "c": [
+    0.132,
+    0.1001,
+    0.0366
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_hgl@body_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true
+  }
+ ],
+ "BMW_M3E92_08": [],
+ "BMW_M4_14": [
+  {
+   "c": [
+    -0.1437,
+    0.0662,
+    0.0349
+   ],
+   "ext": [
+    0.046,
+    0.004,
+    0.017
+   ],
+   "n": 6,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1437,
+    0.0662,
+    0.0349
+   ],
+   "ext": [
+    0.046,
+    0.004,
+    0.017
+   ],
+   "n": 6,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_M5E28_88": [
+  {
+   "c": [
+    -0.1325,
+    0.1217,
+    0.0342
+   ],
+   "ext": [
+    0.081,
+    0.001,
+    0.006
+   ],
+   "n": 10,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1325,
+    0.1217,
+    0.0342
+   ],
+   "ext": [
+    0.081,
+    0.001,
+    0.006
+   ],
+   "n": 10,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_M5TF_12": [
+  {
+   "c": [
+    -0.135,
+    0.0669,
+    0.0298
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_LGL@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.135,
+    0.0669,
+    0.0298
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_LGL@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "BMW_M5_12": [
+  {
+   "c": [
+    -0.135,
+    0.0669,
+    0.0298
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_LGL@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.135,
+    0.0669,
+    0.0298
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!plastic_LGL@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "BMW_M5_95": [],
+ "BMW_M6_13": [
+  {
+   "c": [
+    -0.0992,
+    0.0736,
+    0.0179
+   ],
+   "ext": [
+    0.084,
+    0.004,
+    0.02
+   ],
+   "n": 26,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0992,
+    0.0736,
+    0.0179
+   ],
+   "ext": [
+    0.084,
+    0.004,
+    0.02
+   ],
+   "n": 26,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_X5M_11": [
+  {
+   "c": [
+    -0.13,
+    0.0772,
+    0.0194
+   ],
+   "ext": [
+    0.043,
+    0.004,
+    0.022
+   ],
+   "n": 52,
+   "m": [
+    "gls_patternch2_011"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.13,
+    0.0772,
+    0.0194
+   ],
+   "ext": [
+    0.043,
+    0.004,
+    0.022
+   ],
+   "n": 52,
+   "m": [
+    "gls_patternch2_011"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BMW_Z4_11": [
+  {
+   "c": [
+    -0.0991,
+    0.0884,
+    0.0588
+   ],
+   "ext": [
+    0.088,
+    0.002,
+    0.02
+   ],
+   "n": 12,
+   "m": [
+    "LBK_smoothChrome_custom_02@bumperRSideMarkers_a",
+    "gls_patternCH1_009_custom_clear@bumperRSideMarkers_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0991,
+    0.0884,
+    0.0588
+   ],
+   "ext": [
+    0.088,
+    0.002,
+    0.02
+   ],
+   "n": 12,
+   "m": [
+    "LBK_smoothChrome_custom_02@bumperRSideMarkers_a",
+    "gls_patternCH1_009_custom_clear@bumperRSideMarkers_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BOW_NemesisEXR_12": [
+  {
+   "c": [
+    -0.1305,
+    0.0735,
+    0.0199
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_sealedbeam_014@glassCTL_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.13,
+    0.0735,
+    0.0199
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_sealedbeam_014@glassCTL_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "BUG_EB110SS_92": [],
+ "BUG_VeyronSS_11": [],
+ "BUI_GSX_70": [],
+ "BUI_RegalGNX_87": [],
+ "CAD_Escalade_12": [
+  {
+   "c": [
+    -0.1474,
+    0.0944,
+    0.0299
+   ],
+   "ext": [
+    0.067,
+    0.002,
+    0.01
+   ],
+   "n": 98,
+   "m": [
+    "gls_clear",
+    "gls_lightbulb"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1508,
+    0.0944,
+    0.0299
+   ],
+   "ext": [
+    0.067,
+    0.002,
+    0.01
+   ],
+   "n": 98,
+   "m": [
+    "gls_clear",
+    "gls_lightbulb"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CAT_R500_13": [
+  {
+   "c": [
+    0.0033,
+    -0.0979,
+    0.0116
+   ],
+   "ext": [
+    0.102,
+    0.021,
+    0.005
+   ],
+   "n": 212,
+   "m": [
+    "gls_clear",
+    "gls_lightbulb"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "CHE_BelAir_57": [
+  {
+   "c": [
+    0.0,
+    -0.1258,
+    0.0926
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  }
+ ],
+ "CHE_CamaroIROCZ_90": [
+  {
+   "c": [
+    -0.19,
+    -0.0086,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.19,
+    -0.0086,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "CHE_CamaroSS_69": [],
+ "CHE_CamaroZ28_15": [
+  {
+   "c": [
+    -0.1319,
+    0.0903,
+    0.0194
+   ],
+   "ext": [
+    0.085,
+    0.004,
+    0.034
+   ],
+   "n": 38,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1319,
+    0.0903,
+    0.0194
+   ],
+   "ext": [
+    0.085,
+    0.004,
+    0.034
+   ],
+   "n": 38,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_CamaroZ28_70": [
+  {
+   "c": [
+    -0.0709,
+    0.1006,
+    0.0069
+   ],
+   "ext": [
+    0.038,
+    0.017,
+    0.033
+   ],
+   "n": 96,
+   "m": [
+    "gls_clear",
+    "gls_lightbulb"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0709,
+    0.1006,
+    0.0071
+   ],
+   "ext": [
+    0.038,
+    0.017,
+    0.033
+   ],
+   "n": 96,
+   "m": [
+    "gls_clear",
+    "gls_lightbulb"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_CamaroZ28_79": [],
+ "CHE_CamaroZL1_12": [
+  {
+   "c": [
+    -0.075,
+    0.0948,
+    0.0161
+   ],
+   "ext": [
+    0.061,
+    0.002,
+    0.035
+   ],
+   "n": 34,
+   "m": [
+    "gls_patternch1_005"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.075,
+    0.0948,
+    0.0158
+   ],
+   "ext": [
+    0.061,
+    0.002,
+    0.035
+   ],
+   "n": 34,
+   "m": [
+    "gls_patternch1_005"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_Chevelle_70": [
+  {
+   "c": [
+    -0.092,
+    0.0773,
+    0.0431
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metal_rough@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true
+  },
+  {
+   "c": [
+    0.092,
+    0.0773,
+    0.0431
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metal_rough@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true
+  }
+ ],
+ "CHE_CorvetteGSFF_63": [],
+ "CHE_CorvetteStingray_14": [],
+ "CHE_CorvetteZ06_15": [
+  {
+   "c": [
+    -0.1694,
+    0.0999,
+    0.0278
+   ],
+   "ext": [
+    0.056,
+    0.003,
+    0.011
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternCH2_008"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1689,
+    0.0999,
+    0.0271
+   ],
+   "ext": [
+    0.055,
+    0.003,
+    0.011
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternCH2_008"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_CorvetteZR1_70": [],
+ "CHE_CorvetteZR1_95": [
+  {
+   "c": [
+    -0.1253,
+    0.0985,
+    0.0132
+   ],
+   "ext": [
+    0.035,
+    0.004,
+    0.024
+   ],
+   "n": 6,
+   "m": [
+    "LBK_smoothchrome@body_a",
+    "gls_patternCH1_009@body_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1253,
+    0.0985,
+    0.0132
+   ],
+   "ext": [
+    0.035,
+    0.004,
+    0.024
+   ],
+   "n": 6,
+   "m": [
+    "LBK_smoothchrome@body_a",
+    "gls_patternCH1_009@body_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_Corvette_53": [
+  {
+   "c": [
+    -0.188,
+    -0.0053,
+    0.0192
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!Material__30@trunk_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true
+  },
+  {
+   "c": [
+    0.188,
+    -0.0053,
+    0.0192
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!Material__30@trunk_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true
+  }
+ ],
+ "CHE_Corvette_60": [
+  {
+   "c": [
+    -0.2104,
+    0.061,
+    0.0483
+   ],
+   "ext": [
+    0.007,
+    0.04,
+    0.033
+   ],
+   "n": 24,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.2104,
+    0.061,
+    0.0483
+   ],
+   "ext": [
+    0.007,
+    0.04,
+    0.033
+   ],
+   "n": 24,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHE_ImpalaSS_64": [],
+ "CHE_MonteCarlo_88": [
+  {
+   "c": [
+    -0.179,
+    -0.013,
+    0.013
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesCH1_003@bumperR"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.179,
+    -0.013,
+    0.013
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesCH1_003@bumperR"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "CHE_SS_14": [
+  {
+   "c": [
+    -0.1541,
+    0.0828,
+    0.0318
+   ],
+   "ext": [
+    0.082,
+    0.016,
+    0.04
+   ],
+   "n": 52,
+   "m": [
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1541,
+    0.0828,
+    0.0325
+   ],
+   "ext": [
+    0.082,
+    0.016,
+    0.04
+   ],
+   "n": 52,
+   "m": [
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHR_Cuda426_71": [
+  {
+   "c": [
+    -0.065,
+    0.0826,
+    0.0294
+   ],
+   "ext": [
+    0.058,
+    0.007,
+    0.034
+   ],
+   "n": 24,
+   "m": [
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.065,
+    0.0826,
+    0.0294
+   ],
+   "ext": [
+    0.058,
+    0.007,
+    0.034
+   ],
+   "n": 24,
+   "m": [
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "CHR_GTX_71": [],
+ "DOD_Challenger392_12": [],
+ "DOD_Challenger392_H2_12": [],
+ "DOD_ChallengerFast7_15": [],
+ "DOD_ChallengerHemi_70": [],
+ "DOD_ChargerDaytonaFF_69": [],
+ "DOD_ChargerDaytona_69": [
+  {
+   "c": [
+    -0.1,
+    0.0872,
+    -0.032
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.1,
+    0.0872,
+    -0.032
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "DOD_ChargerFF_68": [],
+ "DOD_ChargerFast7_15": [],
+ "DOD_ChargerFast7_70": [
+  {
+   "c": [
+    -0.1,
+    0.0878,
+    -0.0301
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.1,
+    0.0878,
+    -0.0301
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "DOD_ChargerRT_69": [
+  {
+   "c": [
+    -0.1,
+    0.0872,
+    -0.032
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.1,
+    0.0872,
+    -0.032
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "DOD_ChargerSRT8_12": [
+  {
+   "c": [
+    0.0,
+    0.0856,
+    0.0041
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "DOD_Dart_68": [
+  {
+   "c": [
+    -0.0,
+    0.0867,
+    0.0515
+   ],
+   "ext": [
+    0.047,
+    0.008,
+    0.016
+   ],
+   "n": 222,
+   "m": [
+    "gls_edge"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "DOD_RamRunner_13": [],
+ "DOD_ViperGTSACR_99": [],
+ "DON_D8GTO_13": [
+  {
+   "c": [
+    -0.1365,
+    -0.0822,
+    0.0201
+   ],
+   "ext": [
+    0.04,
+    0.005,
+    0.012
+   ],
+   "n": 34,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1365,
+    -0.0822,
+    0.0201
+   ],
+   "ext": [
+    0.04,
+    0.005,
+    0.012
+   ],
+   "n": 34,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "FER_250GTLusso_63": [
+  {
+   "c": [
+    -0.089,
+    -0.111,
+    0.016
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome Lampen unter Platte"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  },
+  {
+   "c": [
+    0.089,
+    -0.111,
+    0.016
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome Lampen unter Platte"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  }
+ ],
+ "FER_250GTO_64": [
+  {
+   "c": [
+    -0.069,
+    0.136,
+    0.042
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "LBK_smoothChrome_BFLM"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.069,
+    0.136,
+    0.042
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "LBK_smoothChrome_BFLM"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "FER_250GT_60": [
+  {
+   "c": [
+    -0.0823,
+    -0.0637,
+    0.0196
+   ],
+   "ext": [
+    0.028,
+    0.023,
+    0.017
+   ],
+   "n": 146,
+   "m": [
+    "gls_patternch1_023",
+    "lbk_plasticCH1_001"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.0823,
+    -0.0637,
+    0.0196
+   ],
+   "ext": [
+    0.028,
+    0.023,
+    0.017
+   ],
+   "n": 146,
+   "m": [
+    "gls_patternch1_023",
+    "lbk_plasticCH1_001"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "FER_250TestaRossa_57": [],
+ "FER_330P4_67": [],
+ "FER_355Berlinetta_94": [],
+ "FER_360Challenge_03": [],
+ "FER_458Speciale_15": [
+  {
+   "c": [
+    -0.1214,
+    0.071,
+    0.0193
+   ],
+   "ext": [
+    0.053,
+    0.001,
+    0.01
+   ],
+   "n": 4,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1251,
+    0.071,
+    0.019
+   ],
+   "ext": [
+    0.053,
+    0.001,
+    0.01
+   ],
+   "n": 4,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FER_500TR_54": [
+  {
+   "c": [
+    -0.0,
+    0.0915,
+    -0.0171
+   ],
+   "ext": [
+    0.048,
+    0.037,
+    0.019
+   ],
+   "n": 270,
+   "m": [
+    "LBK_standardch1_010",
+    "gls_frosted"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FER_575_02": [],
+ "FER_California_09": [],
+ "FER_Dino246_69": [
+  {
+   "c": [
+    -0.258,
+    -0.0214,
+    0.0355
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "r": 0.035,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "note": "v117 Phil: Kugel statt flacher Scheibe (Kugeln Chromleiste)"
+  },
+  {
+   "c": [
+    0.258,
+    -0.0214,
+    0.0355
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "r": 0.035,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "note": "v117 Phil: Kugel statt flacher Scheibe (Kugeln Chromleiste)"
+  }
+ ],
+ "FER_Enzo_02": [
+  {
+   "c": [
+    -0.065,
+    0.0748,
+    0.0261
+   ],
+   "ext": [
+    0.075,
+    0.006,
+    0.02
+   ],
+   "n": 20,
+   "m": [
+    "LBK",
+    "gls"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.065,
+    0.0748,
+    0.0261
+   ],
+   "ext": [
+    0.076,
+    0.006,
+    0.02
+   ],
+   "n": 20,
+   "m": [
+    "LBK",
+    "gls"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FER_F12_13": [
+  {
+   "c": [
+    -0.1083,
+    0.0685,
+    0.018
+   ],
+   "ext": [
+    0.055,
+    0.001,
+    0.027
+   ],
+   "n": 10,
+   "m": [
+    "gls_recch2_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1082,
+    0.0685,
+    0.018
+   ],
+   "ext": [
+    0.055,
+    0.001,
+    0.027
+   ],
+   "n": 10,
+   "m": [
+    "gls_recch2_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FER_F142TF_10": [],
+ "FER_F40_87": [
+  {
+   "c": [
+    -0.1229,
+    0.1234,
+    0.0326
+   ],
+   "ext": [
+    0.026,
+    0.001,
+    0.02
+   ],
+   "n": 8,
+   "m": [
+    "reflector"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1229,
+    0.1234,
+    0.0326
+   ],
+   "ext": [
+    0.026,
+    0.001,
+    0.02
+   ],
+   "n": 8,
+   "m": [
+    "reflector"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FER_F430Scuderia_07": [],
+ "FER_F50_95": [],
+ "FER_GTO_84": [
+  {
+   "c": [
+    -0.275,
+    0.0068,
+    0.0335
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.275,
+    0.0068,
+    0.0335
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "FER_LaFerrari_13": [],
+ "FIA_131AbarthStradale_80": [
+  {
+   "c": [
+    -0.2036,
+    0.0074,
+    0.041
+   ],
+   "ext": [
+    0.0,
+    0.042,
+    0.016
+   ],
+   "n": 8,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.2037,
+    0.0074,
+    0.0411
+   ],
+   "ext": [
+    0.0,
+    0.042,
+    0.016
+   ],
+   "n": 8,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "FIA_500AbarthSS_10": [
+  {
+   "c": [
+    -0.14,
+    0.0721,
+    0.0283
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!aluminum_ch1_ptn_001|trunkTrim_a@trunk_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.14,
+    0.0721,
+    0.0283
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!aluminum_ch1_ptn_001|trunkTrim_a@trunk_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "FIA_595SS_68": [
+  {
+   "c": [
+    0.0,
+    0.0745,
+    0.0483
+   ],
+   "ext": [
+    0.081,
+    0.013,
+    0.02
+   ],
+   "n": 76,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FIA_8VSupersonic_53": [
+  {
+   "c": [
+    -0.1951,
+    -0.0442,
+    0.0204
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.1949,
+    -0.0442,
+    0.022
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "FIA_AbarthPuntoSS_13": [],
+ "FOR_Bronco_75": [
+  {
+   "c": [
+    0.0,
+    0.0985,
+    0.026
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "opening v68"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "opening": true,
+   "paint": true,
+   "r": 0.025
+  }
+ ],
+ "FOR_Capri_74": [
+  {
+   "c": [
+    -0.1135,
+    -0.1076,
+    0.0395
+   ],
+   "ext": [
+    0.05,
+    0.002,
+    0.018
+   ],
+   "n": 238,
+   "m": [
+    "gls_edge"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1135,
+    -0.1076,
+    0.0395
+   ],
+   "ext": [
+    0.05,
+    0.002,
+    0.018
+   ],
+   "n": 238,
+   "m": [
+    "gls_edge"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "FOR_EscortRS1600FF_70": [],
+ "FOR_EscortRS1800_77": [
+  {
+   "c": [
+    -0.132,
+    -0.1052,
+    0.0202
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_ridgescapsulech1_001@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  },
+  {
+   "c": [
+    0.132,
+    -0.1052,
+    0.0202
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_ridgescapsulech1_001@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  }
+ ],
+ "FOR_EscortRSCosworth_92": [
+  {
+   "c": [
+    0.0,
+    -0.1121,
+    0.0334
+   ],
+   "ext": [
+    0.057,
+    0.002,
+    0.007
+   ],
+   "n": 32,
+   "m": [
+    "gls_ridgesCH1_003",
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "FOR_FiestaST_14": [],
+ "FOR_FiestaST_H2_14": [],
+ "FOR_Fiesta_81": [
+  {
+   "c": [
+    -0.14,
+    -0.1453,
+    0.0671
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector@bumperR_a"
+   ],
+   "r": 0.035,
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.14,
+    -0.1453,
+    0.0671
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector@bumperR_a"
+   ],
+   "r": 0.035,
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "FOR_FocusRS_03": [],
+ "FOR_FocusRS_09": [
+  {
+   "c": [
+    -0.1275,
+    0.0699,
+    0.0197
+   ],
+   "ext": [
+    0.03,
+    0.003,
+    0.028
+   ],
+   "n": 44,
+   "m": [
+    "gls_ridgesch1_002",
+    "lbk_standardch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    -0.0,
+    0.0694,
+    0.022
+   ],
+   "ext": [
+    0.099,
+    0.005,
+    0.038
+   ],
+   "n": 140,
+   "m": [
+    "gls_ridgesch1_002",
+    "lbk_standardch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1275,
+    0.0699,
+    0.0197
+   ],
+   "ext": [
+    0.03,
+    0.003,
+    0.027
+   ],
+   "n": 44,
+   "m": [
+    "gls_ridgesch1_002",
+    "lbk_standardch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FOR_FocusST_12": [],
+ "FOR_GT40_66": [],
+ "FOR_GT_05": [],
+ "FOR_MustangBoss302_69": [
+  {
+   "c": [
+    0.0,
+    0.0666,
+    0.0598
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "FOR_MustangCobraR_00": [
+  {
+   "c": [
+    -0.101,
+    0.11,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "blkplastic_lgl unter Kante"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.101,
+    0.11,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "blkplastic_lgl unter Kante"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "FOR_MustangGT500_13": [
+  {
+   "c": [
+    -0.0703,
+    0.0891,
+    0.0513
+   ],
+   "ext": [
+    0.053,
+    0.001,
+    0.015
+   ],
+   "n": 6,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0703,
+    0.0891,
+    0.051
+   ],
+   "ext": [
+    0.053,
+    0.001,
+    0.015
+   ],
+   "n": 6,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "FOR_MustangGT_15": [],
+ "FOR_MustangKingCobra_78": [],
+ "FOR_RS200Evolution_87": [
+  {
+   "c": [
+    -0.1293,
+    -0.0843,
+    0.0393
+   ],
+   "ext": [
+    0.031,
+    0.003,
+    0.01
+   ],
+   "n": 44,
+   "m": [
+    "gls_litssmooth_ch1_001"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1293,
+    -0.0843,
+    0.0393
+   ],
+   "ext": [
+    0.031,
+    0.003,
+    0.01
+   ],
+   "n": 44,
+   "m": [
+    "gls_litssmooth_ch1_001"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "FOR_RS500_87": [
+  {
+   "c": [
+    -0.128,
+    -0.1233,
+    0.0562
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_001@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.128,
+    -0.1233,
+    0.0562
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_001@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "FOR_RangerT6_14": [],
+ "FOR_SVTRaptorCheetos_11": [
+  {
+   "c": [
+    -0.2344,
+    -0.0076,
+    0.08
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_sgl@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  },
+  {
+   "c": [
+    0.2436,
+    -0.0076,
+    0.08
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_sgl@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  }
+ ],
+ "FOR_SVTRaptor_12": [
+  {
+   "c": [
+    -0.2344,
+    -0.0076,
+    0.08
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_sgl@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  },
+  {
+   "c": [
+    0.2436,
+    -0.0076,
+    0.08
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_sgl@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  }
+ ],
+ "FOR_ShelbyRaptor_13": [
+  {
+   "c": [
+    -0.238,
+    -0.0156,
+    0.0314
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metalpainted_alpha@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  },
+  {
+   "c": [
+    0.238,
+    -0.0156,
+    0.0314
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metalpainted_alpha@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "half": true,
+   "halfpos": true
+  }
+ ],
+ "FOR_TransitSSV_11": [
+  {
+   "c": [
+    -0.1403,
+    0.0715,
+    0.0369
+   ],
+   "ext": [
+    0.093,
+    0.006,
+    0.028
+   ],
+   "n": 54,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1403,
+    0.0715,
+    0.0369
+   ],
+   "ext": [
+    0.093,
+    0.006,
+    0.028
+   ],
+   "n": 54,
+   "m": [
+    "gls_patternCH1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "HEN_VenomGT_12": [
+  {
+   "c": [
+    -0.1097,
+    -0.067,
+    0.0321
+   ],
+   "ext": [
+    0.053,
+    0.007,
+    0.026
+   ],
+   "n": 82,
+   "m": [
+    "LBK_standardCH1_005",
+    "gls_edge",
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1097,
+    -0.067,
+    0.0322
+   ],
+   "ext": [
+    0.053,
+    0.008,
+    0.026
+   ],
+   "n": 82,
+   "m": [
+    "LBK_standardCH1_005",
+    "gls_edge",
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "HON_CRXMugen_84": [],
+ "HON_CRXSi_91": [],
+ "HON_CivicR_04": [],
+ "HON_CivicSi_86": [
+  {
+   "c": [
+    -0.0844,
+    0.0931,
+    0.0264
+   ],
+   "ext": [
+    0.067,
+    0.002,
+    0.04
+   ],
+   "n": 8,
+   "m": [
+    "gls_patternch1_035"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0844,
+    0.0931,
+    0.0264
+   ],
+   "ext": [
+    0.067,
+    0.002,
+    0.04
+   ],
+   "n": 8,
+   "m": [
+    "gls_patternch1_035"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "HON_CivicTypeR_97": [
+  {
+   "c": [
+    -0.1577,
+    0.1015,
+    0.0153
+   ],
+   "ext": [
+    0.02,
+    0.0,
+    0.013
+   ],
+   "n": 2,
+   "m": [
+    "gls_patternch1_024@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1577,
+    0.1015,
+    0.0153
+   ],
+   "ext": [
+    0.02,
+    0.0,
+    0.013
+   ],
+   "n": 2,
+   "m": [
+    "gls_patternch1_024@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "HON_NSXRTF_05": [
+  {
+   "c": [
+    -0.0879,
+    0.0904,
+    0.0552
+   ],
+   "ext": [
+    0.021,
+    0.002,
+    0.006
+   ],
+   "n": 8,
+   "m": [
+    "gls_clear",
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0879,
+    0.0904,
+    0.0552
+   ],
+   "ext": [
+    0.021,
+    0.002,
+    0.006
+   ],
+   "n": 8,
+   "m": [
+    "gls_clear",
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "HON_NSXR_92": [
+  {
+   "c": [
+    -0.0877,
+    0.0727,
+    0.0567
+   ],
+   "ext": [
+    0.021,
+    0.001,
+    0.006
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.0891,
+    0.0726,
+    0.0573
+   ],
+   "ext": [
+    0.021,
+    0.001,
+    0.006
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "HON_S2000CR_09": [],
+ "HON_S2000FF_01": [],
+ "HUM_H1Alpha_06": [
+  {
+   "c": [
+    0.0,
+    0.1004,
+    -0.0005
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "HYU_GenesisCoupe_13": [],
+ "HYU_Veloster_12": [
+  {
+   "c": [
+    -0.116,
+    0.0937,
+    0.0222
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metalPainted_metalic_RGH_seam@bumperR_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.116,
+    0.0937,
+    0.0222
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!metalPainted_metalic_RGH_seam@bumperR_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "JAG_Dtype_56": [
+  {
+   "c": [
+    0.0,
+    0.0887,
+    0.0142
+   ],
+   "ext": [
+    0.108,
+    0.019,
+    0.012
+   ],
+   "n": 96,
+   "m": [
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "JAG_Etype_61": [
+  {
+   "c": [
+    -0.285,
+    0.006,
+    0.0608
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.285,
+    0.006,
+    0.0608
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "JAG_FTypeCoupe_15": [],
+ "JAG_XFRS_15": [
+  {
+   "c": [
+    -0.127,
+    0.0826,
+    0.0259
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!aluminum_satin@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.127,
+    0.0826,
+    0.0259
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!aluminum_satin@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "JAG_XJ220_93": [],
+ "JAG_XK120_54": [
+  {
+   "c": [
+    0.0,
+    0.1115,
+    0.0112
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_rgh_mgl@taillightC_a"
+   ],
+   "r": 0.012,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "JAG_XKRS_12": [
+  {
+   "c": [
+    -0.14,
+    0.069,
+    0.02
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.162,
+     0.6903,
+     -2.2227
+    ],
+    [
+     -0.118,
+     0.6903,
+     -2.2227
+    ],
+    [
+     -0.118,
+     0.6958,
+     -2.2532
+    ],
+    [
+     -0.162,
+     0.6958,
+     -2.2533
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.14,
+    0.069,
+    0.02
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.162,
+     0.6958,
+     -2.2533
+    ],
+    [
+     0.118,
+     0.6958,
+     -2.2532
+    ],
+    [
+     0.118,
+     0.6903,
+     -2.2227
+    ],
+    [
+     0.162,
+     0.6903,
+     -2.2227
+    ]
+   ]
+  }
+ ],
+ "JEE_Wagoneer_91": [],
+ "JEE_WillysMB_45": [],
+ "JEE_WranglerFast7_13": [],
+ "JEE_Wrangler_12": [
+  {
+   "c": [
+    -0.001,
+    0.08,
+    0.0334
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_lgl@body_a"
+   ],
+   "r": 0.024,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "KOE_Agera_11": [
+  {
+   "c": [
+    -0.0001,
+    0.082,
+    0.0182
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.03,
+     0.5548,
+     -2.0115
+    ],
+    [
+     0.03,
+     0.5548,
+     -2.0115
+    ],
+    [
+     0.03,
+     0.5646,
+     -2.0275
+    ],
+    [
+     -0.03,
+     0.5644,
+     -2.0277
+    ]
+   ]
+  }
+ ],
+ "KTM_Xbow_13": [
+  {
+   "c": [
+    -0.1307,
+    -0.0699,
+    0.0189
+   ],
+   "ext": [
+    0.037,
+    0.007,
+    0.013
+   ],
+   "n": 10,
+   "m": [
+    "gls_clear",
+    "lbk_standardch1_024"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1304,
+    -0.0699,
+    0.0187
+   ],
+   "ext": [
+    0.037,
+    0.007,
+    0.013
+   ],
+   "n": 10,
+   "m": [
+    "gls_clear",
+    "lbk_standardch1_024"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "LAM_Countach_88": [],
+ "LAM_DiabloSV_97": [],
+ "LAM_GallardoLP570_11": [
+  {
+   "c": [
+    -0.1466,
+    0.0834,
+    0.0153
+   ],
+   "ext": [
+    0.066,
+    0.005,
+    0.01
+   ],
+   "n": 4,
+   "m": [
+    "glsAmber"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1466,
+    0.0834,
+    0.0153
+   ],
+   "ext": [
+    0.066,
+    0.005,
+    0.01
+   ],
+   "n": 4,
+   "m": [
+    "glsAmber"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LAM_HuracanTF_15": [],
+ "LAM_Huracan_15": [],
+ "LAM_Jalpa_88": [
+  {
+   "c": [
+    -0.115,
+    0.0914,
+    0.015
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@bumperR_a"
+   ],
+   "r": 0.07,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.115,
+    0.0914,
+    0.015
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@bumperR_a"
+   ],
+   "r": 0.07,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  }
+ ],
+ "LAM_LM002_86": [
+  {
+   "c": [
+    0.008,
+    0.0986,
+    -0.0059
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "pick v72"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "pick": {
+    "box": [
+     -0.7695,
+     -0.6865,
+     0.795,
+     0.7988,
+     -2.3365,
+     -2.305
+    ],
+    "mat": "frame",
+    "file": "body_a",
+    "dir": [
+     0,
+     1,
+     0
+    ],
+    "cos": 0.9
+   }
+  }
+ ],
+ "LAM_LP6704SV_10": [],
+ "LAM_LP7004_12": [
+  {
+   "c": [
+    -0.1289,
+    0.0956,
+    0.0276
+   ],
+   "ext": [
+    0.078,
+    0.007,
+    0.03
+   ],
+   "n": 42,
+   "m": [
+    "gls_clear",
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1289,
+    0.0956,
+    0.0276
+   ],
+   "ext": [
+    0.078,
+    0.007,
+    0.03
+   ],
+   "n": 42,
+   "m": [
+    "gls_clear",
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LAM_MiuraP400_67": [
+  {
+   "c": [
+    -0.15,
+    -0.007,
+    0.037
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_patternch1_009@bumperR"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.15,
+    -0.007,
+    0.037
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_patternch1_009@bumperR"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "LAM_Urus_12": [
+  {
+   "c": [
+    -0.1313,
+    0.0688,
+    0.0216
+   ],
+   "ext": [
+    0.052,
+    0.001,
+    0.021
+   ],
+   "n": 37,
+   "m": [
+    "LBK_smooth_chrome@trunk_a",
+    "lbk_custum@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1312,
+    0.0688,
+    0.0214
+   ],
+   "ext": [
+    0.052,
+    0.001,
+    0.021
+   ],
+   "n": 37,
+   "m": [
+    "LBK_smooth_chrome@trunk_a",
+    "lbk_custum@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LAM_Veneno_13": [
+  {
+   "c": [
+    -0.1313,
+    0.0954,
+    0.021
+   ],
+   "ext": [
+    0.05,
+    0.013,
+    0.013
+   ],
+   "n": 92,
+   "m": [
+    "gls_lightbulb",
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1313,
+    0.0954,
+    0.021
+   ],
+   "ext": [
+    0.05,
+    0.013,
+    0.013
+   ],
+   "n": 92,
+   "m": [
+    "gls_lightbulb",
+    "gls_patternch1_009"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LAN_037Stradale_82": [],
+ "LAN_DeltaS4_86": [
+  {
+   "c": [
+    0.0,
+    -0.0615,
+    0.0351
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!headlightglass2@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "unten",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true
+  }
+ ],
+ "LAN_Delta_92": [
+  {
+   "c": [
+    -0.11,
+    0.0723,
+    0.0438
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.11,
+    0.0723,
+    0.0438
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "LAN_Fulvia_68": [
+  {
+   "c": [
+    -0.168,
+    -0.003,
+    0.015
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesch1_003@glassCTL"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.168,
+    -0.003,
+    0.015
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesch1_003@glassCTL"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "LAN_Stratos_74": [
+  {
+   "c": [
+    0.0,
+    0.0671,
+    0.0656
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!PlasticMGL@trunk_a"
+   ],
+   "r": 0.045,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "nohull": true
+  }
+ ],
+ "LEX_GS350_13": [
+  {
+   "c": [
+    -0.096,
+    0.1057,
+    0.0204
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_polished@trunk_a"
+   ],
+   "r": 0.035,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.096,
+    0.1057,
+    0.0204
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_polished@trunk_a"
+   ],
+   "r": 0.035,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  }
+ ],
+ "LEX_LFA_10": [
+  {
+   "c": [
+    -0.111,
+    0.104,
+    0.0229
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_001@trunk_a"
+   ],
+   "r": 0.085,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.111,
+    0.104,
+    0.0229
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_001@trunk_a"
+   ],
+   "r": 0.085,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "LEX_RCF_15": [
+  {
+   "c": [
+    -0.1318,
+    0.1268,
+    0.0083
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.163,
+     0.7235,
+     -2.308
+    ],
+    [
+     -0.1,
+     0.7235,
+     -2.306
+    ],
+    [
+     -0.104,
+     0.7235,
+     -2.293
+    ],
+    [
+     -0.16,
+     0.7235,
+     -2.291
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.1317,
+    0.1268,
+    0.0078
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.16,
+     0.7235,
+     -2.291
+    ],
+    [
+     0.104,
+     0.7235,
+     -2.293
+    ],
+    [
+     0.1,
+     0.7235,
+     -2.306
+    ],
+    [
+     0.163,
+     0.7235,
+     -2.308
+    ]
+   ]
+  }
+ ],
+ "LOT_2Eleven_09": [
+  {
+   "c": [
+    -0.1344,
+    0.1034,
+    0.0716
+   ],
+   "ext": [
+    0.071,
+    0.0,
+    0.019
+   ],
+   "n": 18,
+   "m": [
+    "gls_patterch1_022|bumperRSideMarkers_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1344,
+    0.1034,
+    0.0713
+   ],
+   "ext": [
+    0.071,
+    0.0,
+    0.02
+   ],
+   "n": 18,
+   "m": [
+    "gls_patterch1_022|bumperRSideMarkers_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LOT_Carlton_89": [
+  {
+   "c": [
+    -0.0006,
+    -0.1797,
+    0.064
+   ],
+   "ext": [
+    0.068,
+    0.003,
+    0.012
+   ],
+   "n": 8,
+   "m": [
+    "gls_ridgesch2_numperplate"
+   ],
+   "strong": true,
+   "pos": "seite"
+  }
+ ],
+ "LOT_Cortina_66": [],
+ "LOT_Eleven_56": [],
+ "LOT_Esprit_02": [],
+ "LOT_EvoraS_11": [
+  {
+   "c": [
+    -0.1287,
+    0.0719,
+    0.0178
+   ],
+   "ext": [
+    0.08,
+    0.001,
+    0.008
+   ],
+   "n": 32,
+   "m": [
+    "gls_patternCH1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1287,
+    0.0719,
+    0.0178
+   ],
+   "ext": [
+    0.08,
+    0.001,
+    0.008
+   ],
+   "n": 32,
+   "m": [
+    "gls_patternCH1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "LOT_ExigeS_12": [
+  {
+   "c": [
+    -0.1368,
+    -0.0732,
+    0.047
+   ],
+   "ext": [
+    0.07,
+    0.009,
+    0.026
+   ],
+   "n": 120,
+   "m": [
+    "gls_clear",
+    "lbk_standardch1_003"
+   ],
+   "strong": false,
+   "pos": "unten"
+  },
+  {
+   "c": [
+    0.1368,
+    -0.0732,
+    0.047
+   ],
+   "ext": [
+    0.07,
+    0.009,
+    0.026
+   ],
+   "n": 120,
+   "m": [
+    "gls_clear",
+    "lbk_standardch1_003"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "LR_Defender_97": [
+  {
+   "c": [
+    -0.006,
+    0.0894,
+    0.0488
+   ],
+   "ext": [
+    0.098,
+    0.001,
+    0.006
+   ],
+   "n": 16,
+   "m": [
+    "LBK_smoothChrome_licenseplate"
+   ],
+   "strong": true,
+   "pos": "oben"
+  }
+ ],
+ "LR_RangeRover_14": [
+  {
+   "c": [
+    -0.1303,
+    0.0962,
+    0.0235
+   ],
+   "ext": [
+    0.075,
+    0.008,
+    0.027
+   ],
+   "n": 28,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    -0.0002,
+    0.0959,
+    0.0243
+   ],
+   "ext": [
+    0.082,
+    0.011,
+    0.032
+   ],
+   "n": 48,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1303,
+    0.0962,
+    0.0235
+   ],
+   "ext": [
+    0.075,
+    0.008,
+    0.027
+   ],
+   "n": 28,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MAS_300S_57": [
+  {
+   "c": [
+    0.015,
+    0.0879,
+    0.02
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_patternCH1_035@taillightC_a"
+   ],
+   "r": 0.035,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "MAS_GhibliFast7_14": [],
+ "MAS_GranTurismoS_10": [
+  {
+   "c": [
+    -0.14,
+    0.097,
+    0.0274
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_satin@trunk_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.14,
+    0.097,
+    0.0274
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_satin@trunk_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "MAS_MC12_04": [],
+ "MAS_Tipo61_60": [],
+ "MAZ_Cosmo_72": [
+  {
+   "c": [
+    -0.0,
+    0.0773,
+    0.0715
+   ],
+   "ext": [
+    0.086,
+    0.017,
+    0.012
+   ],
+   "n": 118,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MAZ_MX5_05": [],
+ "MAZ_MX5_13": [
+  {
+   "c": [
+    -0.129,
+    0.095,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear_taillight@bumperR"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.129,
+    0.095,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear_taillight@bumperR"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MAZ_MX5_16": [],
+ "MAZ_Mazdaspeed3_10": [],
+ "MAZ_Miata_10": [
+  {
+   "c": [
+    -0.129,
+    0.147,
+    0.022
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear_taillight@bumperR"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.129,
+    0.147,
+    0.022
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear_taillight@bumperR"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MAZ_Miata_90": [
+  {
+   "c": [
+    -0.185,
+    0.0098,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.185,
+    0.0098,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "MAZ_Miata_94": [
+  {
+   "c": [
+    -0.185,
+    0.0098,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.185,
+    0.0098,
+    -0.0065
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "MAZ_RX7_97": [],
+ "MAZ_RX8R3_11": [
+  {
+   "c": [
+    0.0,
+    0.0835,
+    -0.0021
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "MCL_650S_15": [],
+ "MCL_F1GT_97": [
+  {
+   "c": [
+    -0.12,
+    -0.0593,
+    0.0234
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  },
+  {
+   "c": [
+    0.12,
+    -0.0593,
+    0.0229
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  }
+ ],
+ "MCL_F1_93": [
+  {
+   "c": [
+    -0.125,
+    -0.0937,
+    0.0285
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_lgl@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.125,
+    -0.0937,
+    0.0285
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_lgl@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "MCL_MP412C_11": [
+  {
+   "c": [
+    -0.1155,
+    0.068,
+    0.0317
+   ],
+   "ext": [
+    0.015,
+    0.0,
+    0.005
+   ],
+   "n": 2,
+   "m": [
+    "licenseReflector@bumperR_a"
+   ],
+   "strong": true,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1155,
+    0.068,
+    0.0317
+   ],
+   "ext": [
+    0.015,
+    0.0,
+    0.005
+   ],
+   "n": 2,
+   "m": [
+    "licenseReflector@bumperR_a"
+   ],
+   "strong": true,
+   "pos": "oben"
+  }
+ ],
+ "MCL_P1TF_13": [],
+ "MCL_P1_13": [],
+ "MER_190E_90": [],
+ "MER_300SL_54": [],
+ "MER_A45AMG_13": [
+  {
+   "c": [
+    -0.109,
+    0.0757,
+    0.0509
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@trunkTrim_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.109,
+    0.0757,
+    0.0509
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@trunkTrim_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  }
+ ],
+ "MER_A45AMG_H2_13": [
+  {
+   "c": [
+    -0.109,
+    0.0757,
+    0.0507
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@trunkTrim_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.109,
+    0.0757,
+    0.0507
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome@trunkTrim_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  }
+ ],
+ "MER_C63AMG_12": [
+  {
+   "c": [
+    -0.1394,
+    0.0836,
+    0.0299
+   ],
+   "ext": [
+    0.037,
+    0.012,
+    0.035
+   ],
+   "n": 14,
+   "m": [
+    "gls_patternch1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1394,
+    0.0836,
+    0.0299
+   ],
+   "ext": [
+    0.037,
+    0.012,
+    0.035
+   ],
+   "n": 14,
+   "m": [
+    "gls_patternch1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MER_E63AMG_13": [
+  {
+   "c": [
+    -0.1217,
+    0.0762,
+    0.0304
+   ],
+   "ext": [
+    0.035,
+    0.004,
+    0.017
+   ],
+   "n": 12,
+   "m": [
+    "gls_clear@trunk_a",
+    "lbksmoothchrome@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1247,
+    0.0762,
+    0.0304
+   ],
+   "ext": [
+    0.035,
+    0.004,
+    0.017
+   ],
+   "n": 12,
+   "m": [
+    "gls_clear@trunk_a",
+    "lbksmoothchrome@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MER_G65AMG_13": [
+  {
+   "c": [
+    -0.288,
+    0.0,
+    0.03
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear seitlich"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.288,
+    0.0,
+    0.03
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_clear seitlich"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "MER_SL65AMG_09": [
+  {
+   "c": [
+    -0.167,
+    0.0803,
+    0.0163
+   ],
+   "ext": [
+    0.063,
+    0.005,
+    0.034
+   ],
+   "n": 100,
+   "m": [
+    "gls_2patternCH1"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.167,
+    0.0803,
+    0.0163
+   ],
+   "ext": [
+    0.063,
+    0.005,
+    0.034
+   ],
+   "n": 100,
+   "m": [
+    "gls_2patternCH1"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MER_SLK55AMG_12": [
+  {
+   "c": [
+    -0.135,
+    0.0818,
+    0.0365
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_rough@trunk_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.135,
+    0.0818,
+    0.0365
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_rough@trunk_a"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "MER_SLR_05": [],
+ "MER_SLSAMG_11": [],
+ "MG_Metro6R4_86": [
+  {
+   "c": [
+    -0.107,
+    0.065,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome@trunkTrim"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.107,
+    0.065,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome@trunkTrim"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "MIN_CooperS_65": [
+  {
+   "c": [
+    -0.0,
+    -0.067,
+    0.0088
+   ],
+   "ext": [
+    0.106,
+    0.022,
+    0.007
+   ],
+   "n": 44,
+   "m": [
+    "gls_patternch1_008"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "MIN_JCWGP_13": [],
+ "MIN_XRaidCountryman_13": [],
+ "MIT_EclipseFF_95": [
+  {
+   "c": [
+    -0.08,
+    0.1136,
+    0.0296
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_ngl@bumperR_a"
+   ],
+   "r": 0.06,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.08,
+    0.1136,
+    0.0296
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!blkplastic_ngl@bumperR_a"
+   ],
+   "r": 0.06,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "MIT_GalantVR4_92": [
+  {
+   "c": [
+    -0.1058,
+    0.0915,
+    0.0233
+   ],
+   "ext": [
+    0.048,
+    0.002,
+    0.027
+   ],
+   "n": 10,
+   "m": [
+    "gls_PatternCH1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1058,
+    0.0915,
+    0.0233
+   ],
+   "ext": [
+    0.048,
+    0.002,
+    0.027
+   ],
+   "n": 10,
+   "m": [
+    "gls_PatternCH1_023"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "MIT_LancerEVOVIGSR_99": [],
+ "MIT_LancerEvoVIIIMR_04": [],
+ "MIT_LancerEvoXGSR_08": [],
+ "MRC_Coupe_49": [],
+ "NIS_240SX_94": [
+  {
+   "c": [
+    -0.098,
+    0.094,
+    0.022
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_opaque@glassCTL"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.098,
+    0.094,
+    0.022
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_opaque@glassCTL"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "NIS_370Z_10": [],
+ "NIS_510_70": [
+  {
+   "c": [
+    -0.198,
+    0.001,
+    0.026
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesh1_003@body"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.198,
+    0.001,
+    0.026
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "gls_ridgesh1_003@body"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "NIS_FairladyZFF_02": [],
+ "NIS_FairladyZTF_03": [],
+ "NIS_FairladyZvSTwinTurbo_94": [],
+ "NIS_GShock_370Z_10": [],
+ "NIS_GTR_12": [
+  {
+   "c": [
+    -0.186,
+    0.0893,
+    0.0206
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_patternCH2_011@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.186,
+    0.0893,
+    0.0206
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_patternCH2_011@bumperR_a"
+   ],
+   "r": 0.02,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.0005,
+    0.0884,
+    0.029
+   ],
+   "ext": [
+    0.061,
+    0.001,
+    0.025
+   ],
+   "n": 18,
+   "m": [
+    "gls_patternCH2_011"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "nogrow": true
+  }
+ ],
+ "NIS_IDXNismo_15": [],
+ "NIS_JukePringles_14": [
+  {
+   "c": [
+    -0.1228,
+    0.1133,
+    0.0159
+   ],
+   "ext": [
+    0.035,
+    0.001,
+    0.031
+   ],
+   "n": 10,
+   "m": [
+    "glass_pattern@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1228,
+    0.1133,
+    0.0159
+   ],
+   "ext": [
+    0.035,
+    0.001,
+    0.031
+   ],
+   "n": 10,
+   "m": [
+    "glass_pattern@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "NIS_Juke_14": [
+  {
+   "c": [
+    -0.1228,
+    0.1133,
+    0.0159
+   ],
+   "ext": [
+    0.035,
+    0.001,
+    0.031
+   ],
+   "n": 10,
+   "m": [
+    "glass_pattern@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1228,
+    0.1133,
+    0.0159
+   ],
+   "ext": [
+    0.035,
+    0.001,
+    0.031
+   ],
+   "n": 10,
+   "m": [
+    "glass_pattern@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "NIS_SilviaK_92": [],
+ "NIS_SilviaSpecR_00": [],
+ "NIS_Skyline2000GTR_71": [],
+ "NIS_SkylineFF_99": [],
+ "NIS_SkylineGTRVSpecII_02": [],
+ "NIS_SkylineGTR_93": [],
+ "NOB_M600_10": [
+  {
+   "c": [
+    -0.1001,
+    0.0626,
+    0.0194
+   ],
+   "ext": [
+    0.072,
+    0.006,
+    0.024
+   ],
+   "n": 170,
+   "m": [
+    "Gls_clear",
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1001,
+    0.0626,
+    0.0194
+   ],
+   "ext": [
+    0.072,
+    0.006,
+    0.024
+   ],
+   "n": 170,
+   "m": [
+    "Gls_clear",
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "OLD_442_69": [
+  {
+   "c": [
+    0.0,
+    0.0713,
+    -0.0237
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "PAG_Huayra_12": [
+  {
+   "c": [
+    -0.1341,
+    0.0662,
+    0.0097
+   ],
+   "ext": [
+    0.065,
+    0.001,
+    0.012
+   ],
+   "n": 14,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1341,
+    0.0662,
+    0.0096
+   ],
+   "ext": [
+    0.065,
+    0.001,
+    0.01
+   ],
+   "n": 14,
+   "m": [
+    "lbk_smoothchrome@bumperR_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "PAG_ZondaCinque_09": [],
+ "PLY_CudaFast7_70": [],
+ "PLY_RoadRunnerFast7_70": [
+  {
+   "c": [
+    0.0,
+    0.081,
+    -0.0102
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "PON_FirebirdTransAm_77": [
+  {
+   "c": [
+    -0.177,
+    0.0066,
+    0.0279
+   ],
+   "ext": [
+    0.002,
+    0.055,
+    0.011
+   ],
+   "n": 7,
+   "m": [
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.177,
+    0.0066,
+    0.0279
+   ],
+   "ext": [
+    0.002,
+    0.055,
+    0.011
+   ],
+   "n": 7,
+   "m": [
+    "gls_ridgesCH1_003"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "PON_GTOJudge_69": [
+  {
+   "c": [
+    0.0,
+    0.0996,
+    0.0262
+   ],
+   "ext": [
+    0.062,
+    0.016,
+    0.014
+   ],
+   "n": 70,
+   "m": [
+    "gls_patternch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "PON_TransAm_73": [
+  {
+   "c": [
+    0.0,
+    0.0846,
+    0.0422
+   ],
+   "ext": [
+    0.078,
+    0.016,
+    0.034
+   ],
+   "n": 236,
+   "m": [
+    "gls_2patternCH2_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "POR_911GT2_12": [
+  {
+   "c": [
+    -0.1055,
+    0.0847,
+    0.0358
+   ],
+   "ext": [
+    0.075,
+    0.003,
+    0.02
+   ],
+   "n": 28,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1055,
+    0.0847,
+    0.0358
+   ],
+   "ext": [
+    0.075,
+    0.003,
+    0.02
+   ],
+   "n": 28,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "POR_911GT3RS_12": [
+  {
+   "c": [
+    -0.1,
+    0.094,
+    0.016
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Lampen in Kante"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.1,
+    0.094,
+    0.016
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Lampen in Kante"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "POR_911TurboS_14": [],
+ "POR_911Turbo_82": [
+  {
+   "c": [
+    -0.325,
+    0.0138,
+    0.0314
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.325,
+    0.0138,
+    0.0314
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "POR_914_70": [],
+ "POR_918Spyder_14": [
+  {
+   "c": [
+    -0.1228,
+    0.0984,
+    0.0292
+   ],
+   "ext": [
+    0.079,
+    0.001,
+    0.03
+   ],
+   "n": 6,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1228,
+    0.0984,
+    0.0292
+   ],
+   "ext": [
+    0.079,
+    0.001,
+    0.03
+   ],
+   "n": 6,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "POR_944turbo_89": [],
+ "POR_959_87": [],
+ "POR_CarreraGT_03": [],
+ "POR_Cayenne_12": [
+  {
+   "c": [
+    -0.155,
+    0.092,
+    0.012
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome_polished"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.155,
+    0.092,
+    0.012
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "chrome_polished"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "POR_CaymanGTS_15": [],
+ "POR_MecanTurbo_15": [],
+ "REN_5Turbo_80": [
+  {
+   "c": [
+    -0.305,
+    0.0021,
+    0.0408
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_edge@taillightC_a"
+   ],
+   "r": 0.06,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.305,
+    0.0021,
+    0.0408
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_edge@taillightC_a"
+   ],
+   "r": 0.06,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true
+  }
+ ],
+ "REN_AlpineA110_73": [
+  {
+   "c": [
+    0.0002,
+    -0.0842,
+    0.0212
+   ],
+   "ext": [
+    0.038,
+    0.022,
+    0.028
+   ],
+   "n": 306,
+   "m": [
+    "gls_clear",
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "unten"
+  }
+ ],
+ "REN_ClioRS_13": [],
+ "REN_ClioWilliams_93": [
+  {
+   "c": [
+    -0.1415,
+    0.0703,
+    0.0165
+   ],
+   "ext": [
+    0.05,
+    0.004,
+    0.012
+   ],
+   "n": 94,
+   "m": [
+    "gls_clear",
+    "incandescent_1"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.143,
+    0.0703,
+    0.0165
+   ],
+   "ext": [
+    0.05,
+    0.004,
+    0.012
+   ],
+   "n": 94,
+   "m": [
+    "gls_clear",
+    "incandescent_1"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "REN_Clio_03": [
+  {
+   "c": [
+    0.0,
+    -0.1566,
+    0.0294
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "unten",
+   "visual": true
+  }
+ ],
+ "REN_MeganeRS250_10": [],
+ "RUF_CTR2_95": [
+  {
+   "c": [
+    -0.11,
+    0.0576,
+    0.0213
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_pods@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.11,
+    0.0576,
+    0.0213
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!chrome_pods@bumperR_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "comp": true
+  }
+ ],
+ "RUF_Rt12S_11": [],
+ "RUF_Yellowbird_87": [
+  {
+   "c": [
+    -0.256,
+    -0.002,
+    0.011
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "reflector_plate"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.256,
+    -0.002,
+    0.011
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "reflector_plate"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    -0.3068,
+    -0.0153,
+    0.063
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_004@bumperR_b"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "notable": true,
+   "note": "v118 Phil: Stossstange B hat Lampen (Punkte innen an den Gummiboecken)"
+  },
+  {
+   "c": [
+    0.3068,
+    -0.0153,
+    0.063
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!reflector_004@bumperR_b"
+   ],
+   "r": 0.03,
+   "strong": false,
+   "pos": "seite",
+   "visual": true,
+   "nogrow": true,
+   "comp": true,
+   "nohull": true,
+   "notable": true,
+   "note": "v118 Phil: Stossstange B hat Lampen (Punkte innen an den Gummiboecken)"
+  }
+ ],
+ "SHE_Cobra427_65": [
+  {
+   "c": [
+    -0.0,
+    0.0932,
+    0.0037
+   ],
+   "ext": [
+    0.099,
+    0.019,
+    0.009
+   ],
+   "n": 44,
+   "m": [
+    "reflector_001"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "SHE_CobraDaytona_65": [
+  {
+   "c": [
+    -0.161,
+    0.2645,
+    0.0377
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!textured_reflector@body_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "nohull": true,
+   "comp": true
+  },
+  {
+   "c": [
+    0.161,
+    0.2645,
+    0.0377
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!textured_reflector@body_a"
+   ],
+   "r": 0.04,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "nohull": true,
+   "comp": true
+  }
+ ],
+ "SUB_BRAT_81": [],
+ "SUB_BRZ_13": [
+  {
+   "c": [
+    -0.1175,
+    0.0959,
+    0.0201
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.175,
+     0.7069,
+     -2.0087
+    ],
+    [
+     -0.06,
+     0.7047,
+     -2.0109
+    ],
+    [
+     -0.06,
+     0.705,
+     -2.0343
+    ],
+    [
+     -0.175,
+     0.7052,
+     -2.0341
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.1175,
+    0.0959,
+    0.0206
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.175,
+     0.7052,
+     -2.0341
+    ],
+    [
+     0.06,
+     0.705,
+     -2.0343
+    ],
+    [
+     0.06,
+     0.7047,
+     -2.0109
+    ],
+    [
+     0.175,
+     0.7069,
+     -2.0087
+    ]
+   ]
+  }
+ ],
+ "SUB_Impreza22b_98": [],
+ "SUB_LegacyRS_90": [],
+ "SUB_WRXSTI_15": [
+  {
+   "c": [
+    -0.1113,
+    0.106,
+    0.0168
+   ],
+   "ext": [
+    0.054,
+    0.002,
+    0.007
+   ],
+   "n": 14,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1114,
+    0.106,
+    0.0164
+   ],
+   "ext": [
+    0.054,
+    0.002,
+    0.007
+   ],
+   "n": 14,
+   "m": [
+    "gls_clear"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "SUB_WRXSTi_05": [],
+ "SUB_WRXSTi_08": [
+  {
+   "c": [
+    -0.11,
+    0.1183,
+    0.0093
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.138,
+     0.726,
+     -2.0095
+    ],
+    [
+     -0.082,
+     0.726,
+     -2.0095
+    ],
+    [
+     -0.082,
+     0.726,
+     -2.021
+    ],
+    [
+     -0.138,
+     0.726,
+     -2.021
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.11,
+    0.1183,
+    0.0093
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.138,
+     0.726,
+     -2.021
+    ],
+    [
+     0.082,
+     0.726,
+     -2.021
+    ],
+    [
+     0.082,
+     0.726,
+     -2.0095
+    ],
+    [
+     0.138,
+     0.726,
+     -2.0095
+    ]
+   ]
+  }
+ ],
+ "SUB_WRXSTi_11": [
+  {
+   "c": [
+    -0.11,
+    0.095,
+    0.023
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "greyplastic@trunkTrim"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  },
+  {
+   "c": [
+    0.11,
+    0.095,
+    0.023
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "greyplastic@trunkTrim"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "TES_ModelS_14": [
+  {
+   "c": [
+    -0.17,
+    0.0873,
+    0.0117
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.196,
+     0.7375,
+     -2.459
+    ],
+    [
+     -0.144,
+     0.7375,
+     -2.459
+    ],
+    [
+     -0.144,
+     0.7385,
+     -2.433
+    ],
+    [
+     -0.196,
+     0.7385,
+     -2.433
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.17,
+    0.0873,
+    0.0117
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.196,
+     0.7385,
+     -2.433
+    ],
+    [
+     0.144,
+     0.7385,
+     -2.433
+    ],
+    [
+     0.144,
+     0.7375,
+     -2.459
+    ],
+    [
+     0.196,
+     0.7375,
+     -2.459
+    ]
+   ]
+  }
+ ],
+ "TOY_2000GT_69": [
+  {
+   "c": [
+    -0.2,
+    0.0085,
+    -0.0083
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  },
+  {
+   "c": [
+    0.2,
+    0.0085,
+    -0.0083
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse"
+   ],
+   "strong": false,
+   "pos": "seite",
+   "visual": true
+  }
+ ],
+ "TOY_CelicaGT_74": [
+  {
+   "c": [
+    0.0,
+    0.0951,
+    0.0512
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "Phil 24.11. Gehaeuse (versteckt)"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true
+  }
+ ],
+ "TOY_CelicaST205_94": [],
+ "TOY_GT86_13": [
+  {
+   "c": [
+    -0.1175,
+    0.0931,
+    0.0204
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.175,
+     0.7066,
+     -2.0105
+    ],
+    [
+     -0.06,
+     0.7044,
+     -2.0125
+    ],
+    [
+     -0.06,
+     0.705,
+     -2.033
+    ],
+    [
+     -0.175,
+     0.7072,
+     -2.033
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.1175,
+    0.0931,
+    0.0208
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.175,
+     0.7072,
+     -2.033
+    ],
+    [
+     0.06,
+     0.705,
+     -2.033
+    ],
+    [
+     0.06,
+     0.7044,
+     -2.0125
+    ],
+    [
+     0.175,
+     0.7066,
+     -2.0105
+    ]
+   ]
+  }
+ ],
+ "TOY_MR2GT_95": [],
+ "TOY_Sprinter_85": [
+  {
+   "c": [
+    -0.1904,
+    0.0128,
+    0.0363
+   ],
+   "ext": [
+    0.0,
+    0.042,
+    0.01
+   ],
+   "n": 13,
+   "m": [
+    "gls_2patternch2_001"
+   ],
+   "strong": false,
+   "pos": "seite"
+  },
+  {
+   "c": [
+    0.1904,
+    0.0128,
+    0.0363
+   ],
+   "ext": [
+    0.0,
+    0.042,
+    0.01
+   ],
+   "n": 13,
+   "m": [
+    "gls_2patternch2_001"
+   ],
+   "strong": false,
+   "pos": "seite"
+  }
+ ],
+ "TOY_SupraFF_95": [],
+ "TOY_SupraFast7_98": [],
+ "TOY_SupraRZ_98": [],
+ "TVR_Sagaris_05": [],
+ "ULT_GTR720_12": [],
+ "VAU_Astra_12": [
+  {
+   "c": [
+    -0.1196,
+    0.0576,
+    0.0213
+   ],
+   "ext": [
+    0.051,
+    0.002,
+    0.015
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternch2_015"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1196,
+    0.0576,
+    0.0213
+   ],
+   "ext": [
+    0.051,
+    0.002,
+    0.015
+   ],
+   "n": 4,
+   "m": [
+    "gls_patternch2_015"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "VAU_CorsaVXR_09": [],
+ "VIP_ViperTF_13": [],
+ "VIP_Viper_13": [],
+ "VOL_S60Polestar_15": [
+  {
+   "c": [
+    -0.145,
+    0.0729,
+    0.0282
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     -0.18,
+     0.7748,
+     -2.1634
+    ],
+    [
+     -0.11,
+     0.7741,
+     -2.1639
+    ],
+    [
+     -0.11,
+     0.7783,
+     -2.187
+    ],
+    [
+     -0.18,
+     0.7778,
+     -2.1873
+    ]
+   ]
+  },
+  {
+   "c": [
+    0.145,
+    0.0729,
+    0.0282
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "poly v65"
+   ],
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "poly": [
+    [
+     0.18,
+     0.7778,
+     -2.1873
+    ],
+    [
+     0.11,
+     0.7783,
+     -2.187
+    ],
+    [
+     0.11,
+     0.7741,
+     -2.1639
+    ],
+    [
+     0.18,
+     0.7748,
+     -2.1634
+    ]
+   ]
+  }
+ ],
+ "VW_Beetle_66": [
+  {
+   "c": [
+    -0.0008,
+    0.1087,
+    0.0326
+   ],
+   "ext": [
+    0.066,
+    0.047,
+    0.034
+   ],
+   "n": 258,
+   "m": [
+    "gls_ridgesch1_003"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "VW_Corrado_95": [],
+ "VW_GlobalRallyCross_Bug_15": [],
+ "VW_GolfGTi16vMk2_92": [],
+ "VW_GolfR32_03": [],
+ "VW_GolfR_10": [],
+ "VW_RabbitGTI_84": [
+  {
+   "c": [
+    -0.1314,
+    0.0774,
+    0.0214
+   ],
+   "ext": [
+    0.044,
+    0.01,
+    0.025
+   ],
+   "n": 208,
+   "m": [
+    "lbk_standardch1_002|trunkTrim_a@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.1314,
+    0.0774,
+    0.0214
+   ],
+   "ext": [
+    0.044,
+    0.01,
+    0.025
+   ],
+   "n": 208,
+   "m": [
+    "lbk_standardch1_002|trunkTrim_a@trunk_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "VW_Scirocco16v_88": [
+  {
+   "c": [
+    -0.131,
+    0.0802,
+    0.0165
+   ],
+   "ext": [
+    0.037,
+    0.009,
+    0.02
+   ],
+   "n": 82,
+   "m": [
+    "LBK_smoothChrome@body_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  },
+  {
+   "c": [
+    0.131,
+    0.0802,
+    0.0165
+   ],
+   "ext": [
+    0.037,
+    0.009,
+    0.02
+   ],
+   "n": 82,
+   "m": [
+    "LBK_smoothChrome@body_a"
+   ],
+   "strong": false,
+   "pos": "oben"
+  }
+ ],
+ "VW_SciroccoR_11": [
+  {
+   "c": [
+    -0.129,
+    0.086,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_ridgesch1_002@bumperR_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    0.129,
+    0.086,
+    0.025
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_ridgesch1_002@bumperR_a"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true
+  },
+  {
+   "c": [
+    -0.116,
+    0.0818,
+    0.0193
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_ridgesch1_003@bumperR_c"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "notable": true,
+   "note": "v128 Phil: ABT-Schuerze (bumperR_c) eigenes Glas, 1,4 cm innen/5 mm tiefer als Serie"
+  },
+  {
+   "c": [
+    0.116,
+    0.0818,
+    0.0193
+   ],
+   "ext": [
+    0,
+    0,
+    0
+   ],
+   "n": 0,
+   "m": [
+    "!gls_ridgesch1_003@bumperR_c"
+   ],
+   "r": 0.05,
+   "strong": false,
+   "pos": "oben",
+   "visual": true,
+   "nogrow": true,
+   "notable": true,
+   "note": "v128 Phil: ABT-Schuerze (bumperR_c) eigenes Glas, 1,4 cm innen/5 mm tiefer als Serie"
+  }
+ ],
+ "VW_SciroccoS_81": [],
+ "fer_f142_10": [],
+ "loc_rallyfighter_14": [],
+ "pon_transamgta_87": []
+}
